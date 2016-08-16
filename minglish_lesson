@@ -1,7 +1,6 @@
 from itertools import islice
 from collections import deque
 
-
 class DAG(object):
     def __init__(self):
         self.vertices = {}
